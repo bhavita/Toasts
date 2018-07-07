@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Toasts</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="info">Info</string>
+    <string name="warning">Warning without Icon</string>
+    <string name="custom">Custom</string>
+    <string name="success_string">Hey this action was successful</string>
+    <string name="info_string">This is just for your Info</string>
+    <string name="warning_string">Warning this. This is your last chance</string>
+    <string name="error_string">This is a very big Error Man</string>
+    <string name="custom_string">Custom Toast. Testing 1 2 3</string>
+</resources>
