@@ -47,7 +47,6 @@ For all type of toasts,
  - Text 
  - Duration are compulsory, all other parameters will be provided as per default if not supplied
 
-Remaining parameters
 |Parameter  |Default Value  |Compulsory  |
 |--|--|--|
 |Icon|Each interpreation has its own drawable|No|
